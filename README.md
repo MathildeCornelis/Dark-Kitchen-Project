@@ -1,4 +1,4 @@
-#Kitchen-Project
+# Kitchen-Project
 
 In this repository, you will find our project that finalizes our basic learning of DOM oriented Javascript.
 
@@ -28,3 +28,6 @@ This repository was created and edited on December 09, 2022. This project is an 
 2. open Git Bash
 3. clone the repository
 4. now you can work on the file
+
+---
+[Link to my Github page.](ttps://mathildecornelis.github.io/Dark-Kitchen-Project/)
