@@ -30,4 +30,4 @@ This repository was created and edited on December 09, 2022. This project is an 
 4. now you can work on the file
 
 ---
-[Link to my Github page.](ttps://mathildecornelis.github.io/Dark-Kitchen-Project/)
+[Link to my Github page.](https://mathildecornelis.github.io/Dark-Kitchen-Project/)
